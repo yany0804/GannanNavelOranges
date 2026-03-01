@@ -33,17 +33,28 @@
 ### 1. 首页 (Home)
 * **轮播图展示**: 展示赣南脐橙产地风光及最新活动。
 * **特性服务**: 展示“全国包邮”、“品质保证”、“新鲜速达”、“售后无忧”四大服务承诺。
+
+ <img width="1860" height="873" alt="image" src="https://github.com/user-attachments/assets/e4c6dd73-f326-43b6-bee1-f398ed3f03c3" />
+
+
 * **精选商品**: 推荐热门脐橙礼盒，支持快速加入购物车。
+
+<img width="1860" height="873" alt="image" src="https://github.com/user-attachments/assets/8f0702d0-9a44-4830-936a-b5cbc4658110" />
 
 ### 2. 商品浏览 (Products)
 * **多维筛选**: 支持按**价格区间**（0-50元, 50-100元等）筛选商品。
 * **排序功能**: 支持按价格从低到高或从高到低排序。
 * **精品专区**: 展示高端礼盒及有机认证产品，支持弹窗查看详细参数（产地、规格、口感）。
+  
+<img width="1860" height="873" alt="image" src="https://github.com/user-attachments/assets/436924b2-4149-41c8-aaf7-32e13b10aea1" />
 
 ### 3. 购物车 (Cart)
 * **抽屉式交互**: 采用右侧抽屉式设计，不打断浏览体验。
 * **即时计算**: 实时计算选中商品的总金额。
 * **数量管理**: 支持对商品数量进行增减操作。
+
+<img width="1860" height="873" alt="image" src="https://github.com/user-attachments/assets/31fdcb69-3ff6-4404-b51a-1a05456fa283" />
+
 
 ### 4. 用户中心 (User)
 * **注册/登录**: 提供完整的用户注册流程（包含表单验证）及登录功能。
@@ -51,6 +62,13 @@
 
 ### 5. 关于我们 (About)
 * 介绍赣南脐橙的历史文化、种植特点及荣誉认证（如“国家地理标志保护产品”）。
+  
+<img width="1860" height="381" alt="image" src="https://github.com/user-attachments/assets/0759d6c4-6498-4f10-a11b-f73ad8ba6ff5" />
+
+
+<img width="1860" height="873" alt="image" src="https://github.com/user-attachments/assets/58f8791c-412f-4839-86ed-e778a3a0902a" />
+
+
 
 ## 快速启动 (Quick Start)
 
@@ -104,5 +122,5 @@ GannanNavelOranges/
 │   └── ...
 └── README.md             # 项目说明文档
 ```
-### 📄 许可证
+### 许可证
 本项目采用 MIT 许可证。
